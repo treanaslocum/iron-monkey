@@ -72,6 +72,8 @@
         <p>Supro Online Store</p>
       </div>
     </div>
+
+    <Footer/>
   </div>
  
 
