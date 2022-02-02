@@ -1,7 +1,7 @@
 <template>
   
   <!-- Header -->
-  <div class="flex w-full items-center justify-between">
+  <div class="flex flex-wrap w-full items-center justify-between">
     <!-- logo -->
     <div>
       <NuxtLink to="/">
@@ -15,10 +15,10 @@
     </div>
     <!-- header navigation -->
     <div class="flex mr-20">
-      <p class="p-5 hover:underline"><NuxtLink to="/work">Work</NuxtLink></p>
-      <p class="p-5 hover:underline"><NuxtLink to="/services">Services</NuxtLink></p>
-      <p class="p-5 hover:underline"><NuxtLink to="/about-us">About Us</NuxtLink></p>
-      <p class="p-5 hover:underline"><NuxtLink to="/contact">Contact</NuxtLink></p>
+      <p class="font-medium p-5"><NuxtLink to="/work">Work</NuxtLink></p>
+      <p class="font-medium p-5"><NuxtLink to="/services">Services</NuxtLink></p>
+      <p class="font-medium p-5"><NuxtLink to="/about-us">About Us</NuxtLink></p>
+      <p class="font-medium p-5"><NuxtLink to="/contact">Contact</NuxtLink></p>
     </div>
     
   </div>
