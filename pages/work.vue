@@ -21,7 +21,7 @@
     </div>
 
     <div class="flex flex-col mt-36 w-full items-center justify-center">
-      <p class="mb-2 uppercase font-bold text-sm text-center">What we do</p>
+      <p class="mb-2 uppercase font-bold text-sm text-center">Our work</p>
       <p class="font-medium text-3xl text-center">Design & <br>Web Development</p>
     </div>
 

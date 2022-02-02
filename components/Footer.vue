@@ -12,7 +12,7 @@
     </div>
 
     <div>
-      <p class="font-light text-sm mt-2 mb-8">© Copyright 2022. All Rights Reserved.</p>
+      <p class="text-sm mt-2 mb-8">© Copyright 2022. All Rights Reserved.</p>
     </div>
     
   </div>
