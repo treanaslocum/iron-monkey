@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-split-white-gray  min-h-screen">
+  <div class="sm:bg-split-white-gray  min-h-screen">
     <div>
       <!-- Header -->
       <Header/>
@@ -8,8 +8,9 @@
       <div class="flex ml-14 mt-24">
         <div class="">
           <p class=" text-3xl sm:text-4xl font-medium pb-4">Digital Natives. Design Masters.</p>
-          <p class=" text-xl sm:text-xl w-4/5 font-light">We help businesses create brands and websites that customers love.</p>
+          <p class=" text-lg sm:text-xl w-4/5 font-light">We help businesses create brands and websites that customers love.</p>
         </div>
+    
       </div>
 
       <div class="flex flex-wrap ml-14 mt-32">
@@ -25,6 +26,8 @@
           <p class="font-light">702-333-1018</p>
         </div>
       </div>
+
+      
 
       
     </div>
