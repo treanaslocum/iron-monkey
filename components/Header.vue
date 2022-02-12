@@ -9,10 +9,7 @@
         </NuxtLink>
         
       </div>
-      <div class="mt-24 flex items-center origin-bottom -rotate-90 invisible lg:visible">
-        <div class="w-12 h-0.5 mr-4 bg-black"></div>
-        <p class="text-sm">Since 2014</p>
-      </div>
+     
       <div class="flex mr-20">
         <p class="font-medium p-5"><NuxtLink to="/work">Work</NuxtLink></p>
         <p class="font-medium p-5"><NuxtLink to="/services">Services</NuxtLink></p>

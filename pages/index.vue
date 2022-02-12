@@ -1,31 +1,35 @@
 <template>
-  <div class="sm:bg-split-white-gray  min-h-screen">
+  <div class=" min-h-screen">
     <div>
       <!-- Header -->
-      <Header/>
 
-      <!-- Main content area -->
-      <div class="flex ml-14 mt-24">
+      <div class="flex p-12 items-center justify-between">
         <div class="">
-          <p class=" text-3xl sm:text-4xl font-medium pb-4">Digital Natives. Design Masters.</p>
-          <p class=" text-lg sm:text-xl w-4/5 font-light">We help businesses create brands and websites that customers love.</p>
+          <NuxtLink to="/">
+            <img src="~../assets/logo.png" width="165" height="165">
+          </NuxtLink>
+        </div>
+
+        <div class="flex flex-col">
+          <button class="text-right font-medium mb-2"><NuxtLink to="/work">Work</NuxtLink></button>
+          <button class="text-right font-medium mb-2"><NuxtLink to="/services">Services</NuxtLink></button>
+          <button class="text-right font-medium mb-2"><NuxtLink to="/about-us">About Us</NuxtLink></button>
+          <button class="text-right font-medium"><NuxtLink to="/contact">Contact</NuxtLink></button>
+        </div>
+      </div>
+      
+      <!-- Main content area -->
+      <div class="flex flex-col items-center mt-32 justify-center">
+        <div class="text-center">
+          <p class=" text-4xl font-medium pb-4">数字原住民. 设计大师.</p>
+          <p class=" text-4xl font-medium pb-4">Digital Natives. Design Masters.</p>
         </div>
     
+        
+        
       </div>
 
-      <div class="flex flex-wrap ml-14 mt-32">
-        <div class="mr-36 mb-14">
-          <p class="text-lg font-medium pb-4">Skills</p>
-          <p class="font-light">Web Development</p>
-          <p class="font-light">Web Design</p>
-          <p class="font-light">Business Consulting</p>
-        </div>
-        <div class="pb-4">
-          <p class="text-lg font-medium pb-4">Contact</p>
-          <p class="font-light">ironmonkeystudio702@gmail.com</p>
-          <p class="font-light">702-333-1018</p>
-        </div>
-      </div>
+    
 
       
 
