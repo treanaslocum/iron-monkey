@@ -1,1 +1,40 @@
+.work-chn:hover span {
+  display: none;
+}
+
+.work-chn:hover:before {
+  content: "工作";
+}
+
+.services-chn:hover span {
+  display: none;
+}
+
+.services-chn:hover:before {
+  content: "服务";
+}
+
+.about-chn:hover span {
+  display: none;
+}
+
+.about-chn:hover:before {
+  content: "关于我们";
+}
+
+.contact-chn:hover span {
+  display: none;
+}
+
+.contact-chn:hover:before {
+  content: "接触";
+}
+
+.digital-chn:hover span {
+  display: none;
+}
+
+.digital-chn:hover:before {
+  content: "数字的";
+}
 
