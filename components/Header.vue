@@ -1,25 +1,19 @@
 <template>
   <div>
-     <!-- Header -->
-    <div class="flex flex-wrap items-center justify-center sm:justify-between">
-      <!-- logo -->
-      <div class="">
-        <NuxtLink to="/">
-          <img src="~../assets/logo.png" width="165" height="165">
-        </NuxtLink>
-        
-      </div>
-     
-      <div class="flex mr-20">
-        <p class="font-medium p-5"><NuxtLink to="/work">Work</NuxtLink></p>
-        <p class="font-medium p-5"><NuxtLink to="/services">Services</NuxtLink></p>
-        <p class="font-medium p-5"><NuxtLink to="/about-us">About Us</NuxtLink></p>
-        <p class="font-medium p-5"><NuxtLink to="/contact">Contact</NuxtLink></p>
-      </div>
-      
-    </div>
+     <header class="flex p-12 items-center justify-between">
+        <div class="">
+          <NuxtLink to="/">
+            <img src="~../assets/logo.png" width="175" height="175">
+          </NuxtLink>
+        </div>
 
-   
+        <div class="flex flex-col">
+          <NuxtLink to="/work"><p class="work-chn text-lg text-right font-medium mb-2"><span>Work</span></p></NuxtLink>
+          <NuxtLink to="/services"><p class="services-chn text-lg text-right font-medium mb-2"><span>Services</span></p></NuxtLink>
+          <NuxtLink to="/about-us"><p class="about-chn text-lg text-right font-medium mb-2"><span>About Us</span></p></NuxtLink>
+          <NuxtLink to="/contact"><p class="contact-chn text-lg text-right font-medium"><span>Contact</span></p></NuxtLink>
+        </div>
+      </header>
   </div>
  
 

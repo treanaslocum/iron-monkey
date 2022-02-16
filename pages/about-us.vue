@@ -1,30 +1,14 @@
 <template>
   <div>
 
-    <div class="flex flex-wrap w-full items-center justify-between">
-      <!-- logo -->
-      <div>
-        <NuxtLink to="/">
-          <img src="~../assets/logo.png" width="165" height="165">
-        </NuxtLink>
-        
-      </div>
-      
-      <!-- header navigation -->
-      <div class="flex mr-20">
-        <p class="font-medium p-5"><NuxtLink to="/work">Work</NuxtLink></p>
-        <p class="font-medium p-5"><NuxtLink to="/services">Services</NuxtLink></p>
-        <p class="font-medium p-5 underline"><NuxtLink to="/about-us">About Us</NuxtLink></p>
-        <p class="font-medium p-5"><NuxtLink to="/contact">Contact</NuxtLink></p>
-      </div>
-      
-    </div>
+    <!-- header -->
+     <Header/>
 
     <div class="flex flex-col mt-36 w-full items-center justify-center">
-      <p class="mb-2 uppercase font-bold text-sm text-center">Who we are</p>
-      <p class="font-medium text-3xl text-center">Your Powerhouse For <br> Digital Growth</p>
-      <p class="mt-12 mb-32 w-1/3 text-dark-gray font-light text-lg text-center">We’re the perfect blend of creative and technical. If you need a team that is passionate about building beautiful websites for businesses — hello, it’s nice to meet you.
-      </p>
+      <p class="mb-2 uppercase font-bold text-sm sm:text-2xl text-center">Who we are</p>
+      <h2 class="font-medium text-2xl sm:text-5xl text-center">We are Iron Monkey</h2>
+      <p class="mt-12 mb-6 sm:w-1/2 w-2/3 text-dark-gray font-light text-lg sm:text-xl text-center">Iron Monkey was founded in 2014. We are a North Las Vegas web design and development studio, bridging design and technology. </p>
+      <p class="sm:w-1/2 w-2/3 text-dark-gray font-light text-lg sm:text-xl text-center">Today we're a small team of skilled designers, web developers, and storytellers leveraging the power of today's technologies to create powerful experiences for small businesses around the world.</p>
     </div>
     <Footer/>
   </div>
