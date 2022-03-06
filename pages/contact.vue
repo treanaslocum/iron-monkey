@@ -3,7 +3,7 @@
     <!-- header -->
      <Header/>
      
-    <div class="flex flex-col mt-36 mb-24 w-full items-center">
+    <section class="flex flex-col mt-36 mb-24 w-full items-center">
       <p class="mb-2 uppercase font-bold text-sm sm:text-2xl">Drop us a line</p>
       <h2 class="font-medium text-2xl sm:text-5xl">Looking Forward To Hearing From You.</h2>
       <p class="mt-12 mb-32 w-2/3 sm:w-1/2 text-dark-gray font-light text-lg sm:text-xl text-center">Partner with us to create the digital experience you´ve always envisioned.</p>
@@ -19,7 +19,7 @@
           <p class="font-light text-lg">702-333-1018</p>
         </div>
       </div>
-    </div>
+    </section>
 
     
 

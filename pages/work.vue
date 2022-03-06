@@ -3,12 +3,12 @@
       <!-- Header -->
      <Header/>
 
-    <div class="flex flex-col mt-36 w-full items-center justify-center">
+    <section class="flex flex-col mt-36 w-full items-center justify-center">
       <p class="mb-2 uppercase font-bold text-sm sm:text-2xl text-center">Our work</p>
       <h2 class="font-medium text-2xl sm:text-5xl text-center">Design & <br>Web Development</h2>
-    </div>
+    </section>
 
-    <div class="mt-12 flex flex-wrap items-center justify-center">
+    <section class="mt-12 flex flex-wrap items-center justify-center">
       <div class="m-16">
         <div class="">
           <img class="" src="~/assets/test.png">
@@ -30,9 +30,9 @@
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Web Development, UI/UX Design</p>
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
       </div>
-    </div>
+    </section>
 
-    <div class="mt-12 flex flex-wrap items-center justify-center">
+    <section class="mt-12 flex flex-wrap items-center justify-center">
       <div class="m-16">
         <div class="">
           <img class="" src="~/assets/test.png">
@@ -54,7 +54,7 @@
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
       </div>
-    </div>
+    </section>
 
     <Footer/>
   </div>
