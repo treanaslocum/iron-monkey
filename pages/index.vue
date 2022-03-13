@@ -12,7 +12,7 @@
           <h1 class="sm:text-6xl text-3xl font-medium pb-10">Digital Natives. Design Masters.</h1>
         </div>
         <div class="">
-          <p class="text-xl sm:text-2xl font-light w-3/4 sm:w-2/3">We help small businesses create brands and websites that customers love. From business ideation, web design, web development, SEO, to UI and UX design you can rely on us to give you great results.</p>
+          <p class="text-xl sm:text-2xl font-light w-3/4 sm:w-2/3">We help small businesses create brands and websites that customers love. From business ideation, web design, web development and SEO you can rely on us to give you great results.</p>
 
         </div>
     

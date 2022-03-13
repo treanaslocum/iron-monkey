@@ -10,23 +10,31 @@
 
     <section class="mt-12 flex flex-wrap items-center justify-center">
       <div class="m-16">
-        <div class="">
-          <img class="" src="~/assets/test.png">
-        </div>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
-        <p class="text-lg sm:text-2xl">Supro Online Store</p>
+        <NuxtLink to = "projects/hyperion">
+          <div class="">
+            <img class="" src="~/assets/test.png">
+          </div>
+        </NuxtLink>
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Web Development, Branding</p>
+        <p class="text-lg sm:text-2xl">Hyperion Real Estate</p>
       </div>
       <div class="m-16">
-        <div class="">
-          <img class="" src="~/assets/test.png">
-        </div>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, UI/UX Design</p>
-        <p class="text-lg sm:text-2xl">Supro Online Store</p>
+        <Nuxt-Link to="projects/wonderboy">
+          <div class="">
+            <img class="" src="~/assets/test.png">
+          </div>
+        </Nuxt-Link>
+        
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Branding, Web Development</p>
+        <p class="text-lg sm:text-2xl">Wonderboy Plumbing</p>
       </div>
       <div class="m-16">
-        <div class="">
-          <img class="" src="~/assets/test.png">
-        </div>
+        <Nuxt-Link to = "">
+          <div class="">
+            <img class="" src="~/assets/test.png">
+          </div>
+        </Nuxt-Link>
+        
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Web Development, UI/UX Design</p>
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
       </div>

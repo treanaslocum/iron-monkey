@@ -16,7 +16,7 @@
         <div class="">
           <p class="text-lg sm:text-xl font-medium pb-4">Contact</p>
           <p class="font-light text-lg">ironmonkeystudio702@gmail.com</p>
-          <p class="font-light text-lg">702-333-1018</p>
+          <p class="font-light text-lg">702-308-9874</p>
         </div>
       </div>
     </section>
