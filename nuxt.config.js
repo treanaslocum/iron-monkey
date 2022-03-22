@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Iron Monkey - Web Design and Development Studio',
+    title: 'Iron Monkey Studio - Web Design, Branding and Web Development Studio',
     htmlAttrs: {
       lang: 'en'
     },

@@ -12,10 +12,10 @@
       <div class="m-16">
         <NuxtLink to = "projects/hyperion">
           <div class="">
-            <img class="" src="~/assets/test.png">
+            <img class="" src="~/assets/images/hyperion-home.png">
           </div>
         </NuxtLink>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Web Development, Branding</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Branding</p>
         <p class="text-lg sm:text-2xl">Hyperion Real Estate</p>
       </div>
       <div class="m-16">
@@ -29,30 +29,25 @@
         <p class="text-lg sm:text-2xl">Wonderboy Plumbing</p>
       </div>
       <div class="m-16">
-        <Nuxt-Link to = "">
+        <Nuxt-Link to = "./projects/daves-burgers">
           <div class="">
-            <img class="" src="~/assets/test.png">
+            <img class="" src="~/assets/images/daves_burgers-home.png">
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Web Development, UI/UX Design</p>
-        <p class="text-lg sm:text-2xl">Supro Online Store</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, UI/UX Design</p>
+        <p class="text-lg sm:text-2xl">Dave's Burgers</p>
       </div>
     </section>
 
     <section class="mt-12 flex flex-wrap items-center justify-center">
       <div class="m-16">
-        <div class="">
-          <img class="" src="~/assets/test.png">
-        </div>
+        <Nuxt-Link to = "">
+          <div class="">
+            <img class="" src="~/assets/test.png">
+          </div>
+        </Nuxt-Link>
         <p class="mt-4 font-light text-sm sm:text-lg">Web Development</p>
-        <p class="text-lg sm:text-2xl">Supro Online Store</p>
-      </div>
-      <div class="m-16">
-        <div class="">
-          <img class="" src="~/assets/test.png">
-        </div>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
       </div>
       <div class="m-16">
@@ -81,7 +76,7 @@ export default {
   },
   head () {
     return {
-      title: "Work - Iron Monkey",
+      title: "Work - Iron Monkey Studio",
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         { hid: 'description', name: 'description', content: 'My custom description' }

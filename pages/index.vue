@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div class="min-h-screen">
     <div class="">
       <!-- Header -->
@@ -9,12 +9,13 @@
       <main class="mt-20 ml-24">
         <div class="mr-12">
           <h1 class="sm:text-6xl text-3xl font-medium pb-4">数字原住民. 设计大师.</h1>
-          <h1 class="sm:text-6xl text-3xl font-medium pb-10">Digital Natives. Design Masters.</h1>
+          <h1 class="sm:text-9xl text-5xl font-medium pb-10">Digital Natives. <br>Design Masters.</h1>
         </div>
-        <div class="">
-          <p class="text-xl sm:text-2xl font-light w-3/4 sm:w-2/3">We help small businesses create brands and websites that customers love. From business ideation, web design, web development and SEO you can rely on us to give you great results.</p>
-
+        <div class="mb-64">
+          <p class="text-xl sm:text-2xl font-light w-3/4 sm:w-2/3">Iron Monkey is a <span class="font-semibold">web design,</span><span class="font-semibold"> branding</span>  and <span class="font-semibold">web development</span> agency that helps small businesses create brands and websites that customers love. We work with clients from around the world to make digital experiences that transform the lives of others.</p>
         </div>
+       
+        
     
       </main>
 
