@@ -8,7 +8,7 @@
         <p class="text-gray-300">Previous Project</p>
       </div>
 
-      <NuxtLink to="./wonderboy" class="font-semibold flex items-center justify-center">
+      <NuxtLink to="./reflectionbeauty" class="font-semibold flex items-center justify-center">
         <p>Next Project</p>
         <p>&rarr;</p>
       </NuxtLink>

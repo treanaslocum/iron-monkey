@@ -3,12 +3,12 @@
     <Header/>
 
     <section class="flex justify-center">
-      <NuxtLink to="./daves-burgers" class="mr-16 font-semibold flex items-center justify-center">
+      <NuxtLink to="./hyperion" class="mr-16 font-semibold flex items-center justify-center">
         <p>&larr;</p>
         <p>Previous Project</p>
       </NuxtLink>
 
-      <NuxtLink to="" class="font-semibold flex items-center justify-center">
+      <NuxtLink to="./daves-burgers" class="font-semibold flex items-center justify-center">
         <p>Next Project</p>
         <p>&rarr;</p>
       </NuxtLink>
