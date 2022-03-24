@@ -19,14 +19,14 @@
         <p class="text-lg sm:text-2xl">Hyperion Real Estate</p>
       </div>
       <div class="m-16">
-        <Nuxt-Link to="projects/wonderboy">
+        <Nuxt-Link to="projects/reflectionbeauty">
           <div class="">
-            <img class="" src="~/assets/test.png">
+            <img class="" src="~/assets/images/reflection_beauty-home.jpg">
           </div>
         </Nuxt-Link>
         
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Branding, Web Development</p>
-        <p class="text-lg sm:text-2xl">Wonderboy Plumbing</p>
+        <p class="text-lg sm:text-2xl">Reflection Beauty</p>
       </div>
       <div class="m-16">
         <Nuxt-Link to = "./projects/daves-burgers">
