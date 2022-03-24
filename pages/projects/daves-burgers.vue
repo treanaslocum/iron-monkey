@@ -4,7 +4,7 @@
 
     <section class="flex justify-center">
   
-      <NuxtLink to="./reflectionbeauty" class="mr-16 font-semibold flex items-center justify-center">
+      <NuxtLink to="./reflection-beauty" class="mr-16 font-semibold flex items-center justify-center">
         <p>&larr;</p>
         <p>Previous Project</p>
       </NuxtLink>

@@ -19,7 +19,7 @@
         <p class="text-lg sm:text-2xl">Hyperion Real Estate</p>
       </div>
       <div class="m-16">
-        <Nuxt-Link to="projects/reflectionbeauty">
+        <Nuxt-Link to="projects/reflection-beauty">
           <div class="">
             <img class="" src="~/assets/images/reflection_beauty-home.jpg">
           </div>
