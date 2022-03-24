@@ -35,20 +35,20 @@
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, UI/UX Design</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
         <p class="text-lg sm:text-2xl">Dave's Burgers</p>
       </div>
     </section>
 
     <section class="mt-12 flex flex-wrap items-center justify-center">
       <div class="m-16">
-        <Nuxt-Link to = "">
+        <Nuxt-Link to = "./projects/vertigo">
           <div class="">
-            <img class="" src="~/assets/test.png">
+            <img class="" src="~/assets/images/vertigo-home.png">
           </div>
         </Nuxt-Link>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Development</p>
-        <p class="text-lg sm:text-2xl">Supro Online Store</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
+        <p class="text-lg sm:text-2xl">Vertigo</p>
       </div>
       <div class="m-16">
         <div class="">

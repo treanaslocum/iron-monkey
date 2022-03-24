@@ -9,29 +9,30 @@
       <p class="mt-12 mb-32 w-2/3 sm:w-1/2 text-dark-gray font-light text-lg sm:text-xl text-center">We use the power of sound design principles, solid web development and storytelling to artfully craft a website that translates into business for our clients.</p>
     </section>
 
-    <section class="mb-24 mt-32 justify-center flex flex-wrap">
+    <section class="mb-24 mt-16 justify-center items-center flex">
 
-      
-      <div class="mr-24">
+      <div class="text-center">
+        <div class="mb-16">
         <p class="sm:text-2xl text-xl font-bold mb-4">Business</p>
         <p class="sm:text-lg text-base font-light">Discovery & Research</p>
         <p class="sm:text-lg text-base font-light">Ideation</p>
-      </div>
+        </div>
+          
         
-      
-      <div class="mr-24">
-        <p class="sm:text-2xl text-xl font-bold mb-4">Technology</p>
-        <p class="sm:text-lg text-base font-light">Web Development</p>
-      </div>
-      
-      <div class="">
-        <p class="sm:text-2xl text-xl font-bold mb-4">Creativity</p>
-        <p class="sm:text-lg text-base font-light">UI/UX Design</p>
-        <p class="sm:text-lg text-base font-light">Web Design</p>
-        <p class="sm:text-lg text-base font-light">Branding</p>
-        <p class="sm:text-lg text-base font-light">Storytelling</p>
-      </div>
+        <div class="mb-16">
+          <p class="sm:text-2xl text-xl font-bold mb-4">Technology</p>
+          <p class="sm:text-lg text-base font-light">Web Development</p>
+        </div>
+        
+        <div class="">
+          <p class="sm:text-2xl text-xl font-bold mb-4">Creativity</p>
+          <p class="sm:text-lg text-base font-light">Web Design</p>
+          <p class="sm:text-lg text-base font-light">Branding</p>
+          <p class="sm:text-lg text-base font-light">Storytelling</p>
+        </div>
      
+      </div>
+      
  
     </section>
 
