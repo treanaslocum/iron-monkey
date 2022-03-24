@@ -18,9 +18,9 @@
     <section>
       <div class="flex sm:flex-row flex-col  m-16">
         <div class="sm:w-2/4 w-full mr-16">
-          <!-- <img class="mb-8" src="~/assets/images/reflection_beauty-home.jpg">
-          <img class="mb-8" src="~/assets/images/reflection_beauty-shop.jpg">
-          <img class="mb-8" src="~/assets/images/reflection_beauty-product.jpg"> -->
+          <img class="mb-8" src="~/assets/images/reflection_beauty-home.png">
+          <img class="mb-8" src="~/assets/images/reflection_beauty-shop.png">
+          <img class="mb-8" src="~/assets/images/reflection_beauty-product.png">
         </div>
         <div class="sm:w-2/4 w-full">
           <h1 class="mb-8 text-5xl font-semibold">Reflection Beauty <br><span class="text-xl font-light">Web Design, Branding, Web Development</span></h1>
