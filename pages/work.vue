@@ -35,7 +35,7 @@
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Branding, Web Design</p>
         <p class="text-lg sm:text-2xl">Dave's Burgers</p>
       </div>
     </section>
@@ -50,13 +50,13 @@
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
         <p class="text-lg sm:text-2xl">Vertigo</p>
       </div>
-      <div class="m-16">
+      <!-- <div class="m-16">
         <div class="">
           <img class="" src="~/assets/test.png">
         </div>
         <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
-      </div>
+      </div> -->
     </section>
 
     <Footer/>

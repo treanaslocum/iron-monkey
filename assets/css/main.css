@@ -46,4 +46,6 @@
   content: "数字的";
 }
 
-
+#menu-toggle:checked + #menu {
+  display: block;
+}
