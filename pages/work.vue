@@ -25,7 +25,7 @@
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Branding, Web Development</p>
+        <p class="mt-4 font-light text-sm sm:text-lg">Ecommerce, Web Design, Branding, Web Development</p>
         <p class="text-lg sm:text-2xl">Reflection Beauty</p>
       </div>
       <div class="m-16">
