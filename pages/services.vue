@@ -22,14 +22,14 @@
         <div class="mb-16">
           <p class="sm:text-2xl text-xl font-bold mb-4">Technology</p>
           <p class="sm:text-lg text-base font-light">Web Development</p>
-          <p class="sm:text-lg text-base font-light">Search Engine Optimization</p>
+          <!-- <p class="sm:text-lg text-base font-light">Search Engine Optimization</p> -->
           <p class="sm:text-lg text-base font-light">Website Hosting</p>
         </div>
         
         <div class="">
           <p class="sm:text-2xl text-xl font-bold mb-4">Creativity</p>
           <p class="sm:text-lg text-base font-light">Web Design</p>
-          <p class="sm:text-lg text-base font-light">Logo Design</p>
+          <!-- <p class="sm:text-lg text-base font-light">Logo Design</p> -->
           <p class="sm:text-lg text-base font-light">Branding</p>
           <p class="sm:text-lg text-base font-light">Storytelling</p>
         </div>
