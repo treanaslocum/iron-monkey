@@ -49,3 +49,10 @@
 #menu-toggle:checked + #menu {
   display: block;
 }
+
+.hvr:hover {
+  border: #000000 solid;
+  color: #000;
+  background: #fff;
+}
+

@@ -5,7 +5,7 @@
 
     <section class="flex flex-col mt-36 w-full items-center justify-center">
       <p class="mb-2 uppercase font-bold text-sm sm:text-2xl text-center">Our work</p>
-      <h2 class="font-medium text-2xl sm:text-5xl text-center">Design & <br>Web Development</h2>
+      <h2 class="font-medium text-2xl sm:text-5xl text-center">The things we build, <br>and the people we help.</h2>
     </section>
 
     <section class="mt-12 flex flex-wrap items-center justify-center">
@@ -15,7 +15,7 @@
             <img class="" src="~/assets/images/hyperion-home.png">
           </div>
         </NuxtLink>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design, Branding</p>
+        <p class="mt-4 text-sm sm:text-lg text-dark-gray">Web Design, Branding</p>
         <p class="text-lg sm:text-2xl">Hyperion Real Estate</p>
       </div>
       <div class="m-16">
@@ -25,7 +25,7 @@
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Ecommerce, Web Design, Branding, Web Development</p>
+        <p class="mt-4 text-sm sm:text-lg text-dark-gray">Ecommerce, Web Design, Branding, Web Development</p>
         <p class="text-lg sm:text-2xl">Reflection Beauty</p>
       </div>
       <div class="m-16">
@@ -35,7 +35,7 @@
           </div>
         </Nuxt-Link>
         
-        <p class="mt-4 font-light text-sm sm:text-lg">Branding, Web Design</p>
+        <p class="mt-4 text-sm sm:text-lg text-dark-gray">Branding, Web Design</p>
         <p class="text-lg sm:text-2xl">Dave's Burgers</p>
       </div>
     </section>
@@ -47,7 +47,7 @@
             <img class="" src="~/assets/images/vertigo-home.png">
           </div>
         </Nuxt-Link>
-        <p class="mt-4 font-light text-sm sm:text-lg">Web Design</p>
+        <p class="mt-4 text-sm sm:text-lg text-dark-gray">Web Design</p>
         <p class="text-lg sm:text-2xl">Vertigo</p>
       </div>
       <!-- <div class="m-16">
