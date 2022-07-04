@@ -44,6 +44,9 @@
               <li>
                 <NuxtLink to="/services"><p class="services-chn text-lg text-right font-medium mb-1"><span>Services</span></p></NuxtLink>
               </li>
+              <!-- <li>
+                <NuxtLink to="/pricing"><p class="pricing-chn text-lg text-right font-medium mb-1"><span>Pricing</span></p></NuxtLink>
+              </li> -->
               <li>
                 <NuxtLink to="/about-us"><p class="about-chn text-lg text-right font-medium mb-1"><span>About Us</span></p></NuxtLink>
               </li>

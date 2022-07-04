@@ -55,6 +55,14 @@
   content: "数字的";
 }
 
+.pricing-chn:hover span {
+  display: none;
+}
+
+.pricing-chn:hover:before {
+  content: "价钱";
+}
+
 #menu-toggle:checked + #menu {
   display: block;
 }
@@ -80,3 +88,7 @@
 .main-bg {
   background-color: #1E1E1E;
 }
+
+/* .red-bg {
+  background-color: #EE4B2B;
+} */

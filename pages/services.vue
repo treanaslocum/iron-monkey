@@ -88,7 +88,7 @@
           <div class="mb-16 sm:w-1/3 md:w-3/4 w-1/2">
             <h3 class="sm:text-3xl text-xl font-bold">Design</h3>
             <p class="sm:text-xl text-base">&#8211; Web design</p>
-            <!-- <p class="sm:text-xl text-base">&#8211; Logo design</p> -->
+            <p class="sm:text-xl text-base">&#8211; Logo design</p>
           </div>
             
           <div class="mb-16 sm:w-2/4">
@@ -202,12 +202,20 @@
         <p class="w-5/6">In our opinion, yes, every business should have a website, and not just because we design great ones! A website is your virtual shop window, allowing you to showcase your products or services to the world. Now, while it is still possible to find customers without one, the absence of a secure, professional website can damage consumer confidence and make prospective customers question your credibility. So whether you are looking to establish a firm online presence, or simply tick that box for your customers, we can help.</p>
       </div>
       <div class="mt-8">
-        <p class="text-xl font-semibold">What if I don't have photos for my website?</p>
-        <p class="w-5/6">For the images on your website, we will assist you in finding high quality photography from either free stock libraries, or even premium paid photo libraries. Your direction will be needed to find the best images to suit your business.</p>
-      </div>
-      <div class="mt-8">
         <p class="text-xl font-semibold">Why hire a professional web designer?</p>
         <p class="w-5/6">Amateur web design may look acceptable on the surface, but sites are often riddled with broken links, load slowly, and are likely to look terrible on smaller screens. This can be far more costly than hiring a web designer as your potential customers may look elsewhere for a better experience. User experience and conversion are tightly linked, and we offer affordable designs that will ensure your visitors stick around.</p>
+      </div>
+      <div class="mt-8">
+        <p class="text-xl font-semibold">How long will it take to complete my website?</p>
+        <p class="w-5/6">Our standard timeline is 3-6 weeks to complete a website but this depends on the project since the size and pace of any project is set by each client. How much input you can provide during the initial stages, your feedback, how soon the content is provided – all this affects the speed of completion. The functionality and revisions required will also play a role in your timeline.</p>
+      </div>
+      <div class="mt-8">
+        <p class="text-xl font-semibold">Do I have to be in Vegas to work with you?</p>
+        <p class="w-5/6">No! We have clients all over the world and communicate with them over email and video calls.</p>
+      </div>
+       <div class="mt-8">
+        <p class="text-xl font-semibold">What if I don't have photos for my website?</p>
+        <p class="w-5/6">For the images on your website, we will assist you in finding high quality photography from either free stock libraries, or even premium paid photo libraries. Your direction will be needed to find the best images to suit your business.</p>
       </div>
       <div class="mt-8">
         <p class="text-xl w-2/3 font-semibold">Do you provide a domain name and web hosting?</p>
@@ -217,10 +225,7 @@
         <p class="text-xl font-semibold">Will my website be secure?</p>
         <p class="w-5/6">Yes, we ensure all websites we produce are launched with an SSL certificate, identifiable by the little padlock in the URL bar. Your digital security is top priority, and is also reassuring for your customers, so we never send out a website without one.</p>
       </div>
-      <div class="mt-8">
-        <p class="text-xl font-semibold">Do I have to be in Vegas to work with you?</p>
-        <p class="w-5/6">No! We have clients all over the world and communicate with them over email and video calls.</p>
-      </div>
+      
       <!-- <div class="mt-8">
         <p class="text-xl font-semibold">Is SEO included with my website?</p>
         <p class="w-5/6">No, the development of your website doe not include monthly SEO. All content (images, text and videos) will be seen by Google but does not mean your website will rank number 1.
