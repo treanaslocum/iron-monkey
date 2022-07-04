@@ -22,6 +22,7 @@
   content: "服务";
 }
 
+
 .about-chn:hover span {
   display: none;
 }
@@ -36,6 +37,14 @@
 
 .contact-chn:hover:before {
   content: "接触";
+}
+
+.testimonials-chn:hover span {
+  display: none;
+}
+
+.testimonials-chn:hover:before {
+  content: "推荐信";
 }
 
 .digital-chn:hover span {
@@ -58,4 +67,16 @@
 
 .btn-padding {
   padding: 1.38rem;
+}
+
+/* .pricing:hover {
+  transform: translateY(-10px);
+} */
+
+.new-fnt-color {
+  color: #00A773;
+}
+
+.main-bg {
+  background-color: #1E1E1E;
 }

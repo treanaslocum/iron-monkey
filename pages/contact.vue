@@ -3,16 +3,11 @@
     <!-- header -->
      <Header/>
      
-    <section class="flex flex-col mt-36 mb-24 w-full items-center">
+    <section class="flex flex-col mb-24 w-full items-center">
       <p class="mb-2 uppercase font-bold text-sm sm:text-2xl">Drop us a line</p>
       <h2 class="font-medium text-2xl sm:text-5xl text-center">Let’s start a project together.</h2>
-      <p class="mt-12 mb-24 w-2/3 sm:w-1/2 text-dark-gray  text-lg sm:text-xl text-center">Perhaps there’s a way your business could benefit by partnering with Iron Monkey? Please send us an email or fill out the form below, and we’ll respond within 48 hours of receiving the inquiry.</p>
-      
-     <div class="w-1/2 mb-24">
-      <div data-tf-widget="NGoNG3L6" data-tf-iframe-props="title=Client Questionaire" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-      
-     </div>
-      <div class="text-center mt-22">
+      <p class="mt-12 mb-24 w-2/3 sm:w-1/2 text-lg sm:text-xl text-center">Perhaps there’s a way your business could benefit by partnering with Iron Monkey? Please send us an email or fill out the form below, and we’ll respond within 48 hours of receiving the inquiry.</p>
+       <div class="text-center mt-22">
         <div class="mb-6 ">
           <p class="text-lg sm:text-xl font-semibold pb-4">Business Hours</p>
           <p class="text-lg">Monday-Friday</p>
@@ -28,6 +23,11 @@
           <p class="text-lg">702-308-9874</p>
         </div>
       </div>
+     <div class="w-1/2 mb-24">
+      <div data-tf-widget="NGoNG3L6" data-tf-iframe-props="title=Client Questionaire" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+      
+     </div>
+     
 
      
 
