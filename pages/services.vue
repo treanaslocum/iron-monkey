@@ -100,7 +100,7 @@
 
     <section class="mt-24 sm:ml-18 ml-16">
       <div class="mb-16">
-        <h2 class="text-3xl sm:text-5xl font-bold mb-4">Our Capabilities</h2>
+        <h2 class="text-3xl sm:text-5xl font-medium mb-4">Our Capabilities</h2>
         <p class="text-xl">We're more than a one trick pony. We've mastered a few things.</p>
       </div>
       <div class="sm:ml-64">
@@ -143,7 +143,7 @@
     </section>
     
      <!-- <section class="flex flex-col mt-36 mb-36 pt-20 pb-20 w-full items-center">
-      <p class="text-3xl sm:text-5xl font-bold mb-4 text-center">Our packages</p>
+      <p class="text-3xl sm:text-5xl font-medium mb-4 text-center">Our packages</p>
       <p class="text-xl text-dark-gray text-center">Website pricing from Iron Monkey</p>
       <p class="mt-4 text-dark-gray text-center">Additional pages for the <span class="font-semibold underline">Simple</span>  and <span class="font-semibold underline">Custom</span> packages are $50 per page</p>
       
@@ -225,7 +225,7 @@
    
    <section class="mt-24 sm:ml-40 ml-12">
       <div class="mb-16">
-        <h2 class="sm:text-4xl text-2xl font-bold mb-4">FAQs (Frequently Asked Questions)</h2>
+        <h2 class="sm:text-4xl text-2xl font-medium mb-4">FAQs (Frequently Asked Questions)</h2>
         <p class="text-xl text-dark-gray">Your curious and we have answers.</p>
       </div>
   
