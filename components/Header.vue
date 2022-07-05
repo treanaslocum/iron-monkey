@@ -53,9 +53,9 @@
               <li>
                 <NuxtLink to="/contact"><p class="mb-1 contact-chn text-lg text-right font-medium"><span>Contact</span></p></NuxtLink>
               </li> 
-              <li>
+              <!-- <li>
                 <NuxtLink to="/testimonials"><p class="mb-4 testimonials-chn text-lg text-right font-medium"><span>Testimonials</span></p></NuxtLink>
-              </li>            
+              </li>             -->
               
               
               <div class="flex justify-end">
