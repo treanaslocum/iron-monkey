@@ -4,7 +4,7 @@
      <Header/>
 
     <section class="flex flex-col w-full items-center justify-center">
-      <p class="mb-2 uppercase font-bold text-sm sm:text-2xl text-center">Our work</p>
+      <p class="mb-2 uppercase font-bold text-sm sm:text-xl text-center">Our work</p>
       <h2 class="font-medium text-2xl sm:text-5xl text-center">The things we build, <br>and the people we help.</h2>
     </section>
 
@@ -58,6 +58,8 @@
         <p class="text-lg sm:text-2xl">Supro Online Store</p>
       </div> -->
     </section>
+
+    
 
     <Footer/>
   </div>

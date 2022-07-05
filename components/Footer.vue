@@ -12,6 +12,7 @@
     </div>
 
     <div>
+      <p>Made with &#10084; in North Las Vegas</p>
       <p class="text-sm mt-2 mb-8">© Copyright 2022. All Rights Reserved.</p>
     </div>
     
