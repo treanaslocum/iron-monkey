@@ -247,7 +247,7 @@
       </div>
       <div class="mt-8">
         <p class="text-xl font-semibold">How long will it take to complete my website?</p>
-        <p class="w-5/6">Our standard timeline is 1-2 weeks for simpler sites, but for more robust sites it can take from 3-6 weeks to complete. It all depends on the project since the size and pace of any project differs depending on each client we work with. How much input you can provide during the initial stages, your feedback, how soon the content is provided – all this affects the speed of completion. The functionality and revisions required will also play a role in your timeline.</p>
+        <p class="w-5/6">It all depends on the project since the size and pace of any project differs depending on each client we work with. How much input you can provide during the initial stages, your feedback, how soon the content is provided – all this affects the speed of completion. The functionality and revisions required will also play a role in your timeline.</p>
       </div>
       <div class="mt-8">
         <p class="text-xl font-semibold">Do I have to be in Vegas to work with you?</p>
