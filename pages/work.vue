@@ -28,6 +28,16 @@
         <p class="mt-4 text-sm sm:text-lg text-dark-gray">Ecommerce, Web Design, Branding, Web Development</p>
         <p class="text-lg sm:text-2xl">Reflection Beauty</p>
       </div>
+       <div class="m-16">
+        <Nuxt-Link to = "./projects/boujee-beauty-palace">
+          <div class="">
+            <img class="" src="~/assets/images/boujee-home.jpg">
+          </div>
+        </Nuxt-Link>
+        
+        <p class="mt-4 text-sm sm:text-lg text-dark-gray"> Web Design, Web Development</p>
+        <p class="text-lg sm:text-2xl">Boujee Beauty Palace</p>
+      </div>
       <div class="m-16">
         <Nuxt-Link to = "./projects/daves-burgers">
           <div class="">

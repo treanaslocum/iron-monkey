@@ -8,7 +8,7 @@
         <p>Previous Project</p>
       </NuxtLink>
 
-      <NuxtLink to="./daves-burgers" class="font-semibold flex items-center justify-center">
+      <NuxtLink to="./boujee-beauty-palace" class="font-semibold flex items-center justify-center">
         <p>Next Project</p>
         <p>&rarr;</p>
       </NuxtLink>
@@ -24,7 +24,7 @@
         </div>
         <div class="sm:w-2/4 w-full">
           <h1 class="mb-8 text-5xl font-semibold">Reflection Beauty <br><span class="text-xl font-light">Ecommerce, Web Design, Branding, Web Development</span></h1>
-          <a href="https://www.reflectionbeauty.co/" target="_blank">https://www.reflectionbeauty.co/</a>
+          <a href="https://www.reflectionbeauty.co/" target="_blank" class="text-blue-900">https://www.reflectionbeauty.co/</a>
           <div class="mt-8">
             <h5 class="text-lg font-semibold">Client</h5>
             <h3 class="mb-4">Reflection Beauty is a modern beauty brand that empowers everyday women to build better self-esteem, self-image, and personalities. Based in Las Vegas, NV, Reflection Beauty is owned by a serial entrepreneur who wants to promote a focus on self-pampering and self-love.</h3>
