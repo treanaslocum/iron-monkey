@@ -31,7 +31,7 @@
             <h5 class="text-lg font-semibold">The Challenge</h5>
             <h3 class="mb-4">Boujee Beauty Palace needed a clean layout that showcased their services. Their original website lacked professionalism and clear direction, so they wanted to revamp their visuals in an alluring way.</h3>
             <h5 class="text-lg font-semibold">The Solution</h5>
-            <h3 class="">We researched and designed the new Boujee Beauty Palace website with a clean aesthetic in mind.</h3>
+            <h3 class="">We researched and designed the new Boujee Beauty Palace website to have a clean aesthetic in mind.</h3>
           </div>
           
         </div>
