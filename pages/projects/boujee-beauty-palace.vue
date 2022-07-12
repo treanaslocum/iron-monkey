@@ -18,9 +18,9 @@
     <section>
       <div class="flex sm:flex-row flex-col  m-16">
         <div class="sm:w-2/4 w-full mr-16">
-          <img class="mb-8" src="~/assets/images/boujee-home.jpg">
-          <img class="mb-8" src="~/assets/images/boujee-services.jpg">
-          <img class="mb-8" src="~/assets/images/boujee-service.jpg">
+          <img class="mb-8" src="~/assets/images/boujee-home.png">
+          <img class="mb-8" src="~/assets/images/boujee-services.png">
+          <img class="mb-8" src="~/assets/images/boujee-service.png">
         </div>
         <div class="sm:w-2/4 w-full">
           <h1 class="mb-8 text-5xl font-semibold">Boujee Beauty Palace <br><span class="text-xl font-light">Web Design & Web Development</span></h1>
