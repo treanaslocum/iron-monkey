@@ -31,7 +31,7 @@
        <div class="m-16">
         <Nuxt-Link to = "./projects/boujee-beauty-palace">
           <div class="">
-            <img class="" src="~/assets/images/boujee-home.jpg">
+            <img class="" src="~/assets/images/boujee-home.png">
           </div>
         </Nuxt-Link>
         
