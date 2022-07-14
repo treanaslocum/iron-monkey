@@ -24,6 +24,7 @@
         </div>
         <div class="sm:w-2/4 w-full">
           <h1 class="mb-8 text-5xl font-semibold">Reflection Beauty <br><span class="text-xl font-light">Ecommerce, Web Design, Branding, Web Development</span></h1>
+          <h5 class="text-xs font-semibold uppercase text-blue-900">Visit Website</h5>
           <a href="https://www.reflectionbeauty.co/" target="_blank" class="text-blue-900">https://www.reflectionbeauty.co/</a>
           <div class="mt-8">
             <h5 class="text-lg font-semibold">Client</h5>
