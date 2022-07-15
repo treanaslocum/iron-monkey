@@ -18,7 +18,7 @@
         </div>
         <div class="flex flex-wrap mt-16 mb-16">
           <NuxtLink to="/contact"><button class="p-6 bg-black text-white text-center uppercase text-sm font-semibold">Start a project &#10230;</button></NuxtLink>
-         <a href="https://calendly.com/ironmonkey/30min" target="_blank"><button class="btn-padding sm:ml-6 mt-4 sm:mt-0 border-black border-2 text-black uppercase text-sm font-semibold">Book a free consultation</button></a>
+         <a href="https://calendly.com/ironmonkey/30min" target="_blank"><button class="btn-padding sm:ml-6 mt-4 sm:mt-0 border-black border-2 text-black uppercase text-sm font-semibold">Book a free 30 min consultation</button></a>
         </div>        
         
       </main> 
