@@ -32,7 +32,7 @@
             <h5 class="text-lg font-semibold">The Challenge</h5>
             <h3 class="mb-4">Reflection Beauty needed a modern brand that could revel its more established competitors. They wanted to showcase their first product nail polish to attract their desired demographic.</h3>
             <h5 class="text-lg font-semibold">The Solution</h5>
-            <h3 class="">We designed a sleek website. We aimed to convey the brand's feminine asestic and made it attractive to all sorts of women.</h3>
+            <h3 class="">We designed a sleek website. We aimed to convey the brand's feminine aesthetic and made it attractive to all sorts of women.</h3>
           </div>
           
         </div>
