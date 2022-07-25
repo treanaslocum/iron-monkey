@@ -21,7 +21,7 @@
       <div class="m-16">
         <Nuxt-Link to="projects/reflection-beauty">
           <div class="">
-            <img class="" src="~/assets/images/reflection_beauty-home.png">
+            <img class="" src="~/assets/images/reflection-home.jpg">
           </div>
         </Nuxt-Link>
         
