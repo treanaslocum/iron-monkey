@@ -64,7 +64,7 @@
  
     </section>
 
-    <section class="sm:ml-18 ml-16">
+    <!-- <section class="sm:ml-18 ml-16">
       <h2 class="font-medium text-3xl sm:text-5xl">How we deliver<br> results?</h2>
       <div class="flex sm:flex-nowrap flex-wrap sm:ml-0 mt-24">
         <div class="sm:w-1/4	sm:mr-32">
@@ -94,7 +94,7 @@
           <p class="sm:text-xl">With a niche set of services, we have a great understanding of where, how, and with whom we provide the best results.</p>
         </div>
       </div>
-    </section>
+    </section> -->
 
     
 
