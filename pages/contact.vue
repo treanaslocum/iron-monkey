@@ -12,11 +12,11 @@
       </div>
       
        <div class="text-center mt-22">
-        <div class="mb-6 ">
+        <!-- <div class="mb-6 ">
           <p class="text-lg sm:text-xl font-semibold pb-4">Business Hours</p>
           <p class="text-lg">Monday-Friday</p>
           <p class="text-lg">10AM - 4PM</p>
-        </div>
+        </div> -->
         <div class="mb-6 ">
           <p class="text-lg sm:text-xl font-semibold pb-4">Location</p>
           <p class="text-lg">North Las Vegas, NV</p>
@@ -24,7 +24,7 @@
         <div class="mb-10">
           <p class="text-lg sm:text-xl font-semibold pb-4">Contact</p>
           <p class="text-lg">ironmonkeystudio702@gmail.com</p>
-          <p class="text-lg">702-308-9874</p>
+          <!-- <p class="text-lg">702-308-9874</p> -->
         </div>
       </div>
     
